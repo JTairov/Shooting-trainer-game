@@ -5,3 +5,5 @@ as it's possible before time runs out. **The core features of the project are:**
 <p>1) Decreasing timer</p>
 <p>2) Score counter </p>
 <p>3) Generator of circle targets of random sizes (within set range) and colors</p>
+
+You can deploy the game just by downloading the repository and opening **_ _ index.html _ _ **
