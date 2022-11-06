@@ -6,4 +6,4 @@ as it's possible before time runs out. **The core features of the project are:**
 <p>2) Score counter </p>
 <p>3) Generator of circle targets of random sizes (within set range) and colors</p>
 
-You can deploy the game just by downloading the repository and opening **_index.html_**
+You can deploy the game just by downloading the repository and opening **_index.html_** in any browser
